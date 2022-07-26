@@ -1,4 +1,4 @@
-from gpas_client.gPAS import AdminClient, Client
+from gpas_connect import Client, AdminClient
 
 if __name__ == '__main__':
 
