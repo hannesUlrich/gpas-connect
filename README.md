@@ -7,7 +7,7 @@ The AdminClient is able to create new domains, whereas the Client is used for ps
 ### Installation 
 
 ```shell
-pip install git+https://cau-git.rz.uni-kiel.de/MIKI/impetus/gpas-connect.git
+pip install git+https://github.com/hannesUlrich/gpas-connect.git
 ```
 
 ### Usage
